@@ -1,5 +1,3 @@
-
-
 document.form.addEventListener("submit", function(e){
     e.preventDefault();
     var num1 = document.add.input1.value;
